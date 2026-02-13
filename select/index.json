@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Crying in the Club (Official Video)",
+  "base_artist": "Camila Cabello",
+  "createdAt": "2026-02-13T10:40:15.554347Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/01_Crying_in_the_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/02_Crying_in_the_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/03_Crying_in_the_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crying In The Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/04_Crying_In_The_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Matt Johnson",
+      "has_synced": false,
+      "path": "select/05_Crying_in_the_Club_Matt_Johnson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Johnson, Matt",
+      "has_synced": false,
+      "path": "select/06_Crying_in_the_Club_Johnson,_Matt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/07_Crying_in_the_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crying In The Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/08_Crying_In_The_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Phoebe Green",
+      "has_synced": true,
+      "path": "select/09_Crying_in_the_Club_Phoebe_Green.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crying In The Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/10_Crying_In_The_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Dreamer Isioma",
+      "has_synced": true,
+      "path": "select/11_Crying_in_the_Club_Dreamer_Isioma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crying In The Club",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/12_Crying_In_The_Club_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crying in the Club",
+      "artist": "Shai Coke",
+      "has_synced": true,
+      "path": "select/13_Crying_in_the_Club_Shai_Coke.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crying In The Club (Acoustic)",
+      "artist": "Matt Johnson",
+      "has_synced": false,
+      "path": "select/14_Crying_In_The_Club_(Acoustic)_Matt_Johnson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crying in the Club",
+      "artist": "Camila Cabello",
+      "has_synced": false,
+      "path": "select/pl_01_Crying_in_the_Club_Camila_Cabello.txt"
+    }
+  ]
+}
