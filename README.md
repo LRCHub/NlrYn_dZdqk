@@ -1,0 +1,84 @@
+# Camila Cabello – Crying in the Club (Official Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.42] You think that you'll die without him
+[00:17.12] You know, that's a lie that you tell yourself
+[00:22.80] You fear that you lay alone forever now
+[00:28.19] It ain't true, ain't true, ain't true, no
+[00:48.69] 
+[00:33.96] So put your arms around me tonight
+[00:36.06] Let the music lift you up
+[00:37.44] Like you've never been so high
+[00:39.71] Open up your heart to me
+[00:41.67] Let the music lift you up
+[00:42.91] Like you've never been this free
+[00:45.12] 'Til you feel the sunrise
+[00:47.24] Let the music warm your body
+[00:48.54] Like the heat of a thousand fires
+[00:51.01] The heat of a thousand fires
+[01:05.01] 
+[00:54.85] Ain't no crying in the club (Hey, hey)
+[00:56.88] Let the beat carry, your tears as they fall, baby
+[01:00.53] Ain't no crying in the club (Hey, hey)
+[01:02.46] With a little faith, your tears turn to ecstasy
+[01:06.05] Ain't no crying in the club
+[01:07.29] I won't, I won't, I...
+[01:11.62] Ain't no crying in the club
+[01:12.76] I won't, I won't, I...
+[01:17.07] Ain't no crying in the club
+[01:30.57] 
+[01:18.76] You may think that you'll die without her
+[01:24.06] But you know, that's a lie that you told yourself
+[01:29.90] You fear that you'll never meet another so pure
+[01:35.17] It ain't true, ain't true, ain't true, no
+[01:55.67] 
+[01:40.83] So put your arms around me tonight
+[01:43.00] Let the music lift you up
+[01:44.47] Like you've never been so high
+[01:46.85] Open up your heart to me
+[01:48.62] Let the music lift you up
+[01:49.80] Like you've never been this free
+[01:52.05] 'Til you feel the sunrise
+[01:54.01] Let the music warm your body
+[01:55.47] Like the heat of a thousand fires
+[01:58.11] The heat of a thousand fires
+[02:12.11] 
+[02:01.86] Ain't no crying in the club (Hey, hey)
+[02:03.88] Let the beat carry, your tears as they fall, baby
+[02:07.29] Ain't no crying in the club (Hey, hey)
+[02:09.47] With a little faith, your tears turn to ecstasy
+[02:13.00] Ain't no crying in the club
+[02:13.93] I won't, I won't, I...
+[02:18.41] Ain't no crying in the club
+[02:19.51] I won't, I won't, I...
+[02:24.19] Ain't no crying in the club
+[02:37.69] 
+[02:25.80] You think that you'll die without him
+[02:30.95] You know, that's a lie that you tell yourself
+[02:36.66] You fear that you lay alone forever now
+[02:42.15] It ain't true, ain't true, ain't true
+[03:00.65] 
+[02:46.35] I said ain't no (Ain't no)
+[02:48.88] Ain't no crying
+[02:50.42] Ain't no crying in the club, no crying
+[02:52.62] I said ain't no (Ain't no)
+[02:54.23] Ain't no crying
+[02:55.78] Ain't no crying in the club
+[03:09.28] 
+[02:57.53] Ain't no crying in the club (Hey, hey)
+[02:59.60] Let the beat carry, your tears as they fall, baby
+[03:03.32] Ain't no crying in the club (Hey, hey)
+[03:05.03] With a little faith, your tears turn to ecstasy
+[03:08.88] Ain't no crying in the club
+[03:22.38] 
+[03:09.87] I won't, I won't, I...
+[03:14.45] Ain't no crying in the club
+[03:15.59] I won't, I won't, I...
+[03:19.63] Ain't no crying in the club (I won't cry, I won't cry, I won't cry no more)
+[03:20.88] I won't, I won't, I...
+[03:25.46] Ain't no crying in the club (I won't cry, I won't cry, I won't cry no more)
+[03:26.46] I won't, I won't, I...
+[03:30.93] Ain't no crying in the club
+```
